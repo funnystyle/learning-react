@@ -1,0 +1,23 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "description": "![리액트 웹앱 제작 총론](http://acornpub.co.kr/tb/detail/book/su/yw/1499154023WHcM9mpU.jpg \"리액트 웹앱 제작 총론\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funnystyle/learning-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funnystyle/learning-react/issues"
+  },
+  "homepage": "https://github.com/funnystyle/learning-react#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  }
+}
